@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manya Gupta</h1>
-<h3 align="center">Aspiring to be a full stack developer</h3>
+<h3 align="center">Competitive Coding enthusiast</h3>
 
 - 🌱 I’m currently learning **c, python, web development**
 
